@@ -1,0 +1,14 @@
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\bin\Debug\net8.0\2 zad.exe
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\bin\Debug\net8.0\2 zad.deps.json
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\bin\Debug\net8.0\2 zad.runtimeconfig.json
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\bin\Debug\net8.0\2 zad.dll
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\bin\Debug\net8.0\2 zad.pdb
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\obj\Debug\net8.0\2 zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\obj\Debug\net8.0\2 zad.AssemblyInfoInputs.cache
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\obj\Debug\net8.0\2 zad.AssemblyInfo.cs
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\obj\Debug\net8.0\2 zad.csproj.CoreCompileInputs.cache
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\obj\Debug\net8.0\2 zad.dll
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\obj\Debug\net8.0\refint\2 zad.dll
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\obj\Debug\net8.0\2 zad.pdb
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\obj\Debug\net8.0\2 zad.genruntimeconfig.cache
+C:\Users\1409-5\Desktop\svetlomir Xa\2 zad\2 zad\obj\Debug\net8.0\ref\2 zad.dll
